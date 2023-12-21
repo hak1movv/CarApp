@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Car App</string>
+    <string name="albun_aura">Albun - Aura</string>
+    <string name="regestration">Regestration</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="back">Back-</string>
+    <string name="welcome">Welcome 👋</string>
+    <string name="backs"><![CDATA[<-Back]]></string>
+    <string name="welcomes">Welcome !</string>
+    <string name="cars">Cars</string>
+    <string name="bmw">BMW M5 F90</string>
+    <string name="view_all">View All</string>
+    <string name="_37_000">$37 000</string>
+    <string name="_2018">2018 г,. 2.5л,бензин \n седан \n автомат \n руль слева \n 74000 km</string>
+    <string name="mark">Mark</string>
+    <string name="model">Model</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="save_cars">carautomobil</string>
+    <string name="back_to_main_menu">Вернутся в главное меню</string>
+</resources>
